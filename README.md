@@ -7,7 +7,7 @@ Fundamentos de Circuitos Electricos
 
 Tarea Nº1
 
-Integrantes: Manosalvas Gabriel, Lucero Danilo, Allauca Steven
+Integrantes: Allauca Steven, Lucero Danilo, Manosalvas Gabriel
 
 Carrera: Ing. en Electrónica y Automatización
 
@@ -258,6 +258,8 @@ RESPUESTA:
 
 4. Video
 
+https://youtu.be/CFz-Z0MKEQ4
+
 
 5. Conclusiones
 • Al realizar los ejercicios propuestos se llegó a la conclusión de que existen varias unidades de medida en el SI y todas guardan una relación entre si permitiéndonos de esta manera realizar conversiones para obtener resultados en diferentes Unidades de medida según necesitemos.
@@ -274,7 +276,7 @@ RESPUESTA:
 
 6. Bibliografia
 
-F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
+Floyd T, (2007), Principios de Circuitos Electricos , Octava edicion, Mexico, Pearson Educacion.
 
 
 
