@@ -82,6 +82,65 @@ Capítulo 2
 ![image](https://user-images.githubusercontent.com/93210648/141298785-a4c003a8-dcdd-4e3b-885a-dc23197aa46d.png)
 
 
+21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+
+(a) rojo, violeta, naranja, oro 		R=27kΩ ±5%
+
+(b) café, gris, rojo, plata			R=1.8 kΩ ±10%
+
+
+23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 
+
+(a)330Ω
+
+Bandas: naranja, naranja, café, oro
+
+(b) 2.2kΩ
+Bandas: rojo, rojo, rojo, oro
+
+(c)56kΩ
+Bandas: verde, azul, naranja, oro
+
+(d)100kΩ
+Bandas: café, negro, amarillo, oro
+
+(e)39kΩ
+Bandas: naranja, blanco, naranja, oro
+
+25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+(a) 0.47 Ω
+Bandas: amarillo, violeta, plata, oro
+(b) 270 kΩ
+Bandas: rojo, violeta, amarillo, oro
+(c) 5.1 MΩ
+Bandas: verde, café, verde, oro
+
+27  Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+
+(a) 14.7 kΩ 
+Bandas: café, amarillo, violeta, rojo café
+
+(b) 39.2 Ω 
+Bandas: naranja, blanco, rojo, oro, café
+
+(c) 9.76 kΩ
+Bandas: blanco, violeta, azul, café, café
+
+
+29  ¿Cuál es la resistencia indicada por 4K7?
+4.7 kΩ
+
+
+
+31  Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+
+
+
+![image](https://user-images.githubusercontent.com/93210648/141310500-2392b992-62b1-4d01-9109-46b6895ae297.png)
+
+	
+
+
 
 
 ![image](https://user-images.githubusercontent.com/93210648/141231275-9e13a7da-04ba-4e49-8b8f-e98089a7db18.png)
@@ -91,6 +150,7 @@ tiempo. Determine cuál es este circuito.
 
 
 Respuesta: CIRCUITO (B), AL CERRAR LOS 2 INTERRUPTORES SE ENCIENDEN LAS 2 LAMPARAS.
+
 
 
 35 Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y
@@ -120,6 +180,7 @@ fuente en la figura 2-72.
 ![image](https://user-images.githubusercontent.com/93210648/141300895-f16cdb5f-00eb-4059-b001-ab6516131526.png)
 
 
+
 39  En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
 ¿En la posición 2?
 
@@ -135,10 +196,69 @@ RESPUESTA: En la posición 1.- V1= 0 y  V2= Vs
 41  En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a
 través del resistor y la que sale de la batería.
 
+![image](https://user-images.githubusercontent.com/93210648/141304308-2f40d106-3f21-48f1-bce5-12065507810e.png)
+
+
+
+![image](https://user-images.githubusercontent.com/93210648/141304219-6914f69a-6f27-4681-b63d-ae898312d1ba.png)
+
+
+43  ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+
+![image](https://user-images.githubusercontent.com/93210648/141305090-b29388d7-2fde-4228-a8fd-54dfaddc922b.png)
+
+RESPUESTA: Voltaje= 25 [v]
+
+
+45  Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
+ohmmetro:
+
+(a) manecilla en 2, ajuste de intervalo en x10
+
+
+(b) manecilla en 15, ajuste de intervalo en x100,000
+
+
+(c) manecilla en 45, ajuste de intervalo en x100
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/93210648/141306688-1b5be3f6-0250-483b-84f1-d2d2abf769e2.png)
+
+
+RESPUESTA:
+
+
+(a) 20 [Ώ]
+
+(b) 15 [MΏ]
+
+(c) 4.5 [kΏ]
+
+
+47  Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
+cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
+(a) I1 (b) V1 (c) R1
+
+![image](https://user-images.githubusercontent.com/93210648/141309106-ecd9036f-2932-456a-a11e-2e1f01897f01.png)
+
+RESPUESTA:
+
+(a) Se conectaria en serie con la resistencia R1 y la fuente V1
+
+(b) Se conecta en paralelo a la fuente V1
+
+
+(c) Se conecta en paralelo a la resistencia R1 
+
 
 
 
 4. Video
+
+
 5. Conclusiones
 • Al realizar los ejercicios propuestos se llegó a la conclusión de que existen varias unidades de medida en el SI y todas guardan una relación entre si permitiéndonos de esta manera realizar conversiones para obtener resultados en diferentes Unidades de medida según necesitemos.
 
